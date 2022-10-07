@@ -1,0 +1,6 @@
+;CEP;NOME;SEXO;address_type;address_name;address;state;district;lat;lng;city;city_ibge;ddd
+0;45995730;ALINE;F;Rua;Flaviano Guimarães;Rua Flaviano Guimarães;BA;Wilson Guimarães Soares;-17.53602;-39.73944;Teixeira de Freitas;2931350;73
+1;45995735;ARAO;M;Rua;Sergipe;Rua Sergipe;BA;Wilson Guimarães Soares;-17.53428;-39.73985;Teixeira de Freitas;2931350;73
+2;45995740;ARON;M;Rua;Rômulo Galvão;Rua Rômulo Galvão;BA;Wilson Brito;-17.53572;-39.74047;Teixeira de Freitas;2931350;73
+3;45995745;ADA;F;Rua;Antônio Melo Lima Franco;Rua Antônio Melo Lima Franco;BA;Wilson Brito;-17.54792;-39.75044;Teixeira de Freitas;2931350;73
+4;45996000;ABADE;M;Avenida;Presidente Getulio Vargas;Avenida Presidente Getulio Vargas;BA;Bela Vista II;-17.53346;-39.7523;Teixeira de Freitas;2931350;73
